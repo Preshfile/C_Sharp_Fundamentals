@@ -1,0 +1,42 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Visual Studio settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider settings
+.idea/
+
+# Ignore files built by Visual Studio
+bin/
+obj/
+
+# Ignore build output, debugging, and other generated files
+[Dd]ebug/
+[Rr]elease/
+[Tt]est[Rr]esults/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Ll]ogFiles/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore Resharper files
+_ReSharper*/
+*.resharper
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
